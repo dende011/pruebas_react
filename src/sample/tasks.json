@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "title": "task one",
+        "description": "tender cama",
+        "done": false
+    },
+    {
+        "id": 1,
+        "title": "task two",
+        "description": "tender ropa",
+        "done": false
+    },
+    {
+        "id": 2,
+        "title": "task three",
+        "description": "tender casa",
+        "done": false
+    }
+]
